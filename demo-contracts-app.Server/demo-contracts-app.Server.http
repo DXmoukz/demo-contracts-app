@@ -1,0 +1,6 @@
+@demo_contracts_app.Server_HostAddress = http://localhost:5031
+
+GET {{demo_contracts_app.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
