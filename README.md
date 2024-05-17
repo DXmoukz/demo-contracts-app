@@ -30,3 +30,9 @@ This will execute all unit tests in the project and display the results.
 - .NET SDK: 8.0
 - React: 18.2.0
 - xUnit: 2.8.0
+
+## Pending implementation/improvements
+- Jest integration
+- xUnit fix
+- Responsive UI
+- Documentation
